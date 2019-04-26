@@ -1,0 +1,6 @@
+D:\learnings\DanskeITChallenge\DanskeITChallenge\bin\Debug\DanskeITChallenge.exe.config
+D:\learnings\DanskeITChallenge\DanskeITChallenge\bin\Debug\DanskeITChallenge.exe
+D:\learnings\DanskeITChallenge\DanskeITChallenge\bin\Debug\DanskeITChallenge.pdb
+D:\learnings\DanskeITChallenge\DanskeITChallenge\obj\Debug\DanskeITChallenge.csprojResolveAssemblyReference.cache
+D:\learnings\DanskeITChallenge\DanskeITChallenge\obj\Debug\DanskeITChallenge.exe
+D:\learnings\DanskeITChallenge\DanskeITChallenge\obj\Debug\DanskeITChallenge.pdb
