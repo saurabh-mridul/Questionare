@@ -1,5 +1,6 @@
 # Questionare
-Interview Question : 
+Interview Question : Andy studies at the some university is very studious. He wants to take as many subjects as possible without any class overlap. The University doesn’t impose any restriction of the number of classes taken during the semester.  He really doesn’t care about what subject he takes; he likes them all! However, he wants to maximize the number of subjects he can take.
+
 Input  pass to my program :
 Number of days: 2
 
